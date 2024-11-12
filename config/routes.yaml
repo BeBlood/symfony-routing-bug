@@ -1,0 +1,6 @@
+controllers:
+    resource: '../src/**/*Controller.php'
+    type: attribute
+    host:
+        fr: www.domain.fr
+        en: www.domain.com
